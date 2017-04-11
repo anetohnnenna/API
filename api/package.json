@@ -1,0 +1,19 @@
+{
+  "name": "httpclient",
+  "version": "1.0.0",
+  "description": "an application that consumes public api using a http client library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anetohnnenna/API.git"
+  },
+  "author": "anetoh jennifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anetohnnenna/API/issues"
+  },
+  "homepage": "https://github.com/anetohnnenna/API#readme"
+}
